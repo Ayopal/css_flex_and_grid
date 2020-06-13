@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=
+    , initial-scale=1.0">
+    <title>CSS FLEX BOX</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    
+<h1> CSS FLEX BOX </h1>
+
+<div class = "wrapper">
+
+    <div class = "sidenav">
+        <h3> Lorem ipsum dolor </h3>
+        <h3>sit</h3>
+        <h3>amet consectetur</h3>
+        <div>
+            <h3>adipisicing elit. </h3>
+
+                <h5>
+                    <ul>
+                        <li>voluptatem</li>  
+                        <li>architecto facere </li>
+                        <li>sequi ad corrupti</li>
+                        <li>tempore</li>
+                    
+                </ul>
+            </h5>
+        </div>
+       <h3>neque doloribus</h3>
+        <h3>amet.</h3>
+          
+    </div>
+
+    <div class = "content_wrapper">
+
+    <div class = "box">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur incidunt ratione amet asperiores nihil quaerat quasi numquam corporis, minus obcaecati culpa hic? Fugiat, enim rem culpa quam et optio non perferendis dicta commodi nihil molestiae earum quasi veritatis tempora officiis asperiores saepe quibusdam hic itaque. Ullam enim quam consectetur esse.
+    </div>
+
+    <div class = "box"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, cumque quam sunt beatae, nostrum accusantium recusandae in aliquid eius magnam, voluptatem quisquam error itaque quod dicta quae autem molestiae aut totam quaerat odit quos libero. Aspernatur error ea labore sit animi et aliquid perferendis facere totam. Iste tempora aliquid explicabo aut voluptatem quidem. Corporis odio rem eum, sint magnam amet perspiciatis eaque voluptates repellendus modi vel expedita laborum repellat recusandae dicta nobis beatae animi itaque fuga odit! Voluptates eum hic eligendi voluptatum ad similique cupiditate velit ipsa assumenda quaerat, incidunt facere tempora. Aspernatur corrupti quos vel culpa ducimus in amet!</div>
+
+
+<div class = "box">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi at et beatae eos dolores officia nobis error amet praesentium eligendi animi consequuntur dolor velit magni maiores nam, tempore accusantium odit, repellat debitis dignissimos autem repellendus itaque. Ducimus dolores mollitia eaque eveniet voluptas itaque incidunt voluptates ad illo excepturi. Quisquam commodi porro consectetur. Ratione architecto perferendis explicabo in animi tempora voluptatum inventore corrupti ex totam. Aut ut, magnam et corporis officiis vero cum architecto illo tempora eaque maiores aperiam necessitatibus. Sed delectus nobis et hic praesentium molestiae dolorum molestias autem dolores facilis nostrum distinctio tenetur laborum quasi ducimus quidem, aspernatur placeat eos totam! Numquam repellendus eveniet rerum soluta ducimus vitae magni, repellat veritatis laboriosam! Accusantium, enim beatae dolorem, ipsam natus voluptas libero incidunt, quis veniam eum obcaecati delectus error dignissimos odio hic officiis a. Ipsam quibusdam rerum recusandae nostrum qui architecto atque maxime accusamus. Hic dolorem fugiat quam aut accusamus voluptate?</div>
+
+<div class = "box">
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur incidunt ratione amet asperiores nihil quaerat quasi numquam corporis, minus obcaecati culpa hic? Fugiat, enim rem culpa quam et optio non perferendis dicta commodi nihil molestiae earum quasi veritatis tempora officiis asperiores saepe quibusdam hic itaque. Ullam enim quam consectetur esse.
+</div>
+
+
+<div class = "content_wrapper_1">
+
+    <div class = "box">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur incidunt ratione amet asperiores nihil quaerat quasi numquam corporis, minus obcaecati culpa hic? Fugiat, enim rem culpa quam et optio non perferendis dicta commodi nihil molestiae earum quasi veritatis tempora officiis asperiores saepe quibusdam hic itaque. Ullam enim quam consectetur esse.
+    </div>
+
+    <div class = "box"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, cumque quam sunt beatae, nostrum accusantium recusandae in aliquid eius magnam, voluptatem quisquam error itaque quod dicta quae autem molestiae aut totam quaerat odit quos libero. Aspernatur error ea labore sit animi et aliquid perferendis facere totam. Iste tempora aliquid explicabo aut voluptatem quidem. Corporis odio rem eum, sint magnam amet perspiciatis eaque voluptates repellendus modi vel expedita laborum repellat recusandae dicta nobis beatae animi itaque fuga odit! Voluptates eum hic eligendi voluptatum ad similique cupiditate velit ipsa assumenda quaerat, incidunt facere tempora. Aspernatur corrupti quos vel culpa ducimus in amet!</div>
+
+
+<div class = "box">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi at et beatae eos dolores officia nobis error amet praesentium eligendi animi consequuntur dolor velit magni maiores nam, tempore accusantium odit, repellat debitis dignissimos autem repellendus itaque. Ducimus dolores mollitia eaque eveniet voluptas itaque incidunt voluptates ad illo excepturi. Quisquam commodi porro consectetur. Ratione architecto perferendis explicabo in animi tempora voluptatum inventore corrupti ex totam. Aut ut, magnam et corporis officiis vero cum architecto illo tempora eaque maiores aperiam necessitatibus. Sed delectus nobis et hic praesentium molestiae dolorum molestias autem dolores facilis nostrum distinctio tenetur laborum quasi ducimus quidem, aspernatur placeat eos totam! Numquam repellendus eveniet rerum soluta ducimus vitae magni, repellat veritatis laboriosam! Accusantium, enim beatae dolorem, ipsam natus voluptas libero incidunt, quis veniam eum obcaecati delectus error dignissimos odio hic officiis a. Ipsam quibusdam rerum recusandae nostrum qui architecto atque maxime accusamus. Hic dolorem fugiat quam aut accusamus voluptate?</div>
+
+<div class = "box">
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur incidunt ratione amet asperiores nihil quaerat quasi numquam corporis, minus obcaecati culpa hic? Fugiat, enim rem culpa quam et optio non perferendis dicta commodi nihil molestiae earum quasi veritatis tempora officiis asperiores saepe quibusdam hic itaque. Ullam enim quam consectetur esse.
+</div>
+
+
+
+
+</div>
+</div>
+
+</body>
+</html>
